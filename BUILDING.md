@@ -1,5 +1,5 @@
 # Building instructions
-Please refer to https://github.com/RigsOfRods/rigs-of-rods/wiki, and find the instructions for your platform in the "Pages" section, which will either be on the sidebar, or near the bottom, if on a device with a very tall, thin screen. 
+Please refer to https://github.com/RigsOfRods/rigs-of-rods/wiki, and find the instructions for your platform (or perhaps the platform most similar to yours, if it is not listed) in the "Pages" section, which will either be on the sidebar, or near the bottom, if on a device with a very tall, thin screen. 
 
 # Dependencies
 core requirements:
